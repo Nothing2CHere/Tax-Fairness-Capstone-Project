@@ -18,18 +18,18 @@ Overall revenue perspective (how much does inequality or lack of fairness) impac
 
 4.	In brief, outline your approach to solving this problem (knowing that this might change later).
 
-1.	Pull data from websites.  Construct data frames.
-2.	Construct a few metrics that capture unfairness:  effective tax rate, total tax deductions & tax credits by gross income levels.
-3.	Create many charts, figure out best charts to tell a story
-4.	Tell the story
-5.	Capture story accuracy limitations
-6.	Capture possible future work.
+    1.	Pull data from websites.  Construct data frames.
+    2.	Construct a few metrics that capture unfairness:  effective tax rate, total tax deductions & tax credits by gross income levels.
+    3.	Create many charts, figure out best charts to tell a story
+    4.	Tell the story
+    5.	Capture story accuracy limitations
+    6.	Capture possible future work.
 
 5.	What are your deliverables? Typically, this would include code, along with a paper and/or a slide deck.
 
-1.	Data scrapping code.
-2.	Code for data frame construction and manipulation, metric execution and charting.
-3.	Machine learning prediction of the future up through 2020.
-4.	Paper & slide deck with best charts selected and annotated.  Data story constructed.
+    1.	Data scrapping code.
+    2.	Code for data frame construction and manipulation, metric execution and charting.
+    3.	Machine learning prediction of the future up through 2020.
+    4.	Paper & slide deck with best charts selected and annotated.  Data story constructed.
 
 
